@@ -1,11 +1,11 @@
-primary_name: "Edward P. tighe"
+primary_name: "Edward P. Tighe"
 secondary_name: ""
 navbar_name: "Ed Tighe"
 
 positions:
 - logo: /assets/images/badges/De_La_Salle_University_Seal.jpeg  # Logo is optional
   name: Assistant Professor, De La Salle University
-- name: Position 2 without logo
+#- name: Position 2 without logo
 
 
 email: "edward.tighe@dlsu.edu.ph"
@@ -21,9 +21,39 @@ orcid: 0000-0001-8018-0061
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    I'm an Assistant Professor of the Department of Software Technology, De La Salle University. I've taught courses on the topics of computational thinking, object-oriented programming, mobile development, and natural language processing. My research field mostly deals with text data (NLP) and I have a general interest in social media analysis and author profiling. Also, I'm slowly making my way to securing my PhD in Computer Science.
-  </p>
+  <p>Hi! I'm Ed, a full-time faculty member of the Department of Software Technology (DST). I joined the department in 2017, although I've been with DLSU for much longer as I entered DLSU in 2010 for my BS (2013) and MS (2017) degrees. With the department, I've handled courses at all levels (SHS, UG, and GS) and typically handle courses such as Computational Thinking, Mobile Development, Natural Language Processing, Object-Oriented Programming, Operating Systems, Research Methods, and Theory of Programming Languages.</p>
+  <p>I am currently the lab head for the Center of Language Technologies (CeLT), the premier NLP research lab in the Philippines. Consider following our Twitter account (<a class="inline_disabled external" href="https://twitter.com/dlsu_celt" target="_blank" rel="noopener"><span>@DLSU_CeLT</span></a>). I'm also a PhD CS student working on understanding manifestations of personality traits in social media data. I returned to my dissertation writing last term and aim to finish my program by the start of next academic year! I also regularly advise research topics related to my dissertation (i.e., Filipino Automatic Personality Recognition), Filipino-English Sentiment Analysis, and other topics related to Natural Language Processing and Social Media / Internet usage. </p>
+  <table style="border-collapse: collapse;" border="0">
+      <tbody>
+          <tr>
+              <td style="width: 50%; background-color: #087830;">
+                  <h4><span style="color: #ecf0f1;"><strong>Current Research Interests</strong></span></h4>
+              </td>
+              <td style="width: 50%; background-color: #087830;">
+                  <h4><span style="color: #ecf0f1;"><strong>General Research Areas</strong></span></h4>
+              </td>
+          </tr>
+          <tr>
+              <td style="width: 50%;">
+                  <ul>
+                      <li>Filipino Automatic Personality Recognition</li>
+                      <li>English-Filipino Sentiment Analysis</li>
+                  </ul>
+              </td>
+              <td style="width: 50%;">
+                  <ul>
+                      <li>Philippine Language Processing</li>
+                      <li>Natural Language Processing</li>
+                      <li>Social Media Analysis</li>
+                      <li>Artificial Intelligence</li>
+                      <li>Data Mining</li>
+                  </ul>
+              </td>
+          </tr>
+      </tbody>
+  </table>
+  <p>I am happy to work with students and collaborators that find interest in my own research interests. Feel free to hit me up if you have ideas or if you want to know what I've currently working on.</p>
+  <p>Lastly, I was recently granted a sabbatical leave, so from Sep 2025 to Sep 2026, I am focused on (a) finishing my PhD, (b) continuing supervision of CeLT, and (c) establishing more research linkages. I am interested in building language resources for the Kapampangan language and in researching how well-being may manifest in lingusitic markers!</p>
 
 portrait_url: /assets/images/photos/portrait.jpeg
 #portrait_caption: >-
@@ -35,7 +65,7 @@ education:
   position: >- 
     Department of Software Technology <br/>
     Ph.D. in Computer Science
-  date: 2018 - present
+  date: 2018 - Present
 - name: De La Salle University
   logo: /assets/images/badges/De_La_Salle_University_Seal.jpeg
   position: >- 
@@ -49,11 +79,15 @@ education:
     BS in Computer Science with Specialization in Software Technology
   date: 2010 - 2013
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: De La Salle University
+  logo: /assets/images/badges/De_La_Salle_University_Seal.jpeg
+  position: Assistant Professor (full-time)
+  date: Sep. 2017 - Present
+- name: De La Salle University
+  logo: /assets/images/badges/De_La_Salle_University_Seal.jpeg
+  position: Lecturer (part-time)
+  date: Jun 2017 - Sep. 2017
 
 #awards:
 #- name: Award Name 2

@@ -4,6 +4,7 @@ date:           2018-06-06 12:00:00 +0800
 selected:       false
 pub:            "Proceedings of the Fifth International Conference on Computational Science and Technology (ICCST) 2018"
 pub_date:       "2018"
+semantic_scholar_id: ab21eb102bfe86bcf5ef9c387289021e665f7e9f  # use this to retrieve citation count
 abstract: >-
   tbh
 #cover:          /assets/images/covers/cover1.jpg

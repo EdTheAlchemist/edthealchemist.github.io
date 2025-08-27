@@ -1,7 +1,7 @@
 ---
 title:          "Modeling Personality Traits of Filipino Twitter Users"
 date:           2018-06-06 12:00:00 +0800
-selected:       false
+selected:       true
 pub:            "Proceedings of the Second Workshop on Computational Modeling of People's Opinions, Personality, and Emotions in Social Media (PEOPLES)"
 pub_date:       "2018"
 semantic_scholar_id: 05f7cec9639021f78bc7793a732ed3aaf717e9c7  # use this to retrieve citation count

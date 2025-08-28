@@ -11,7 +11,7 @@ authors:
 - Alessandra Pauleen I. Gomez*
 - Ibrahim D. Kahil*
 - Shaun Vincent N. Ong*
-- Edward P. Tighe
+- Edward P. Tighe#
 links:
   Paper: https://aclanthology.org/2024.paclic-1.72/
 ---

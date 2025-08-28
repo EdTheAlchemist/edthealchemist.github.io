@@ -9,7 +9,7 @@ abstract: >-
   tbh
 #cover:          /assets/images/covers/cover1.jpg
 authors:
-- Edward P. Tighe
+- Edward P. Tighe#
 - Jennifer C. Ureta
 - Bernard Andrei L. Pollo
 - Charibeth K. Cheng

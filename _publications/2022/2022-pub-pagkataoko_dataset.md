@@ -10,7 +10,7 @@ abstract: >-
   tbh
 #cover:          /assets/images/covers/cover1.jpg
 authors:
-- Edward Tighe
+- Edward Tighe#
 - Luigi Acorda*
 - Alexander Agno II*
 - Jesah Gano*

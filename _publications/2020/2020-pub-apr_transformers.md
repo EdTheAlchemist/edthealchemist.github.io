@@ -8,7 +8,7 @@ abstract: >-
   tbh
 #cover:          /assets/images/covers/cover1.jpg
 authors:
-- Edward Tighe
+- Edward Tighe#
 - Oya Aran
 - Charibeth Cheng
 links:
